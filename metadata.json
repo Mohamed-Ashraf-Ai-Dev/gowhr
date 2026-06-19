@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "An AI-powered personal journal and mood tracker that analyzes your reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
